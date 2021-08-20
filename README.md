@@ -1,5 +1,5 @@
 # MazeSolver
-Using Depth-First Search Algorithm to solve mazes from an input image, using Python.
+Using the Depth-First Search Algorithm to solve mazes from an input image, using Python.
 
 ## Input
 Some example mazes are included in the images folder. The mazes have to follow the following rules:
@@ -10,6 +10,7 @@ Some example mazes are included in the images folder. The mazes have to follow t
 
 ## Output
 The output will be the image of the maze solved, with the path in red.
+
 ## Usage
 ```
 python3 maze.py image.png
