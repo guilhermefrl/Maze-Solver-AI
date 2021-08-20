@@ -8,6 +8,7 @@ Some example mazes are included in the images folder. The mazes have to follow t
 - One white square exists on the top row of the image, and is the start of the maze.
 - One white square exists on the bottom row of the image, and is the end of the maze.
 
+
 ## Output
 The output will be the image of the maze solved, with the path in red.
 
@@ -15,3 +16,9 @@ The output will be the image of the maze solved, with the path in red.
 ```
 python3 maze.py image.png
 ```
+
+## Example
+<div style="display:inline-block">
+  <img src="images/maze200.png"  width="300">
+  <img src="solved/maze200.png"  width="300">
+</div>
