@@ -1,0 +1,2 @@
+# MazeSolver
+Python maze solver.
